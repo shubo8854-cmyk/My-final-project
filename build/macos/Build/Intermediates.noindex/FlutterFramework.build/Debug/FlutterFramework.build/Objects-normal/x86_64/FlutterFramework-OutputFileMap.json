@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-master.dia",
+    "emit-module-dependencies" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-master.swiftdeps"
+  },
+  "/Users/mohammadshubo/Desktop/my_first_app/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework/Sources/FlutterFramework/FlutterFramework.swift" : {
+    "const-values" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.swiftconstvalues",
+    "dependencies" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.d",
+    "diagnostics" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.dia",
+    "index-unit-output-path" : "/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.o",
+    "llvm-bc" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.bc",
+    "object" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.o",
+    "swift-dependencies" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.swiftdeps",
+    "swiftmodule" : "/Users/mohammadshubo/Desktop/my_first_app/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework~partial.swiftmodule"
+  }
+}
